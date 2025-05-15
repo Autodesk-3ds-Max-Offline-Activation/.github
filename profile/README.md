@@ -32,7 +32,7 @@ This offline deployment is ideal for professionals and institutions looking for 
 ![Color Management Tools](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-3dsmax/fy25/features/color-management-large-1787x1080.jpg)  
 *Professional color management system and viewport settings*
 
-![Modifier Stack Workflow](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-3dsmax/fy26/features/modifier-stack-workflow-large-1920x1080.jpg)  
+![Modifier Stack Workflow](https://www.whiteclouds.com/wp-content/uploads/2021/09/3D_Studio_Max_1.jpg)  
 *Layered modifier stack workflow with live object previews*
 
 ![Scene Rendering Setup](https://miro.medium.com/v2/resize:fit:1400/1*h0KekcQhUsOqXMBYmVgq2Q.jpeg)  
