@@ -29,7 +29,7 @@ This offline deployment is ideal for professionals and institutions looking for 
 
 ## 🖼 Preview
 
-![Color Management Tools](https://www.autodesk.com/content/dam/autodesk/www/products/autodesk-3dsmax/fy25/features/color-management-large-1787x1080.jpg)  
+![Color Management Tools](https://develop3d.com/wp-content/uploads/2020/06/3ds-max-2021.1-update-main.png)  
 *Professional color management system and viewport settings*
 
 ![Modifier Stack Workflow](https://www.whiteclouds.com/wp-content/uploads/2021/09/3D_Studio_Max_1.jpg)  
